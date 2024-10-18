@@ -1,2 +1,2 @@
-# repository
+# Open Project repository
 Open
